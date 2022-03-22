@@ -55,3 +55,8 @@ img {
   background-size:auto;
   background-repeat: no-repeat;
 }
+
+.projects {
+  padding-left: 10%;
+  padding-right: 10%;
+}
