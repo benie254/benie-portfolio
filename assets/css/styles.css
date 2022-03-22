@@ -17,6 +17,9 @@ body {
   background-repeat: no-repeat;
   padding-bottom: 30%;
 }
+.header h1 {
+  padding-top: 2%;
+}
 img {
   padding-top: 2%;
   max-width: 900px;
@@ -54,4 +57,23 @@ img {
   background-position: center;
   background-size:auto;
   background-repeat: no-repeat;
+}
+.section-3 h2 {
+  padding-top: 10%;
+}
+
+.projects {
+  padding-top: 2.5%;
+}
+.projects h2 {
+  padding-bottom: 2.5%;
+}
+
+footer {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+footer p {
+  padding-bottom: 0%;
+  margin-bottom: 0%;
 }
