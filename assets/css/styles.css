@@ -9,3 +9,16 @@ body {
 .selector-for-some-widget {
   box-sizing: content-box;
 }
+
+.header {
+  background-image: url(../assets/img/black-2121741_1280.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 30%;
+}
+img {
+  padding-top: 2%;
+  max-width: 900px;
+  max-height: 400px;
+}
