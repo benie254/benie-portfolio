@@ -6,3 +6,6 @@ body {
   background-repeat: no-repeat;
   color: white;
 }
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
